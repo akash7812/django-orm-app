@@ -54,7 +54,7 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![output](./adminoutput.png)
+![output](adminoutput.png)
 
 
 ## RESULT:
