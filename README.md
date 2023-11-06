@@ -54,7 +54,7 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![output](./adminoutput.png)
+![output](/home/sec/ormapp_jamgo/ex01/django-orm-app/adminoutput.png)
 
 
 ## RESULT:
