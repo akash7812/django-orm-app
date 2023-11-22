@@ -54,7 +54,8 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![output](./adminoutput.png)
+![output](https://github.com/akash7812/django-orm-app/assets/146819826/7422fc7f-46c1-4906-86a8-a5f2e6417b65)
+
 
 
 ## RESULT:
